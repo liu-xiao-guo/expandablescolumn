@@ -1,0 +1,17 @@
+{
+    "name": "expandablescolumn.liu-xiao-guo",
+    "description": "description of expandablescolumn",
+    "architecture": "@CLICK_ARCH@",
+    "title": "expandablescolumn",
+    "hooks": {
+        "expandablescolumn": {
+            "apparmor": "expandablescolumn/expandablescolumn.apparmor",
+            "desktop":  "expandablescolumn/expandablescolumn.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

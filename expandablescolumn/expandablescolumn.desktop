@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=expandablescolumn
+Exec=expandablescolumn
+Icon=expandablescolumn/expandablescolumn.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
